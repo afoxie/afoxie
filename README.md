@@ -4,3 +4,5 @@ Hi, I'm Afo, or Afoxie. I'm a 16 year old software developer. I've been using Ja
 [My Website](https://afo.xyz)
 
 [My Other Website](https://sebby.dev)
+
+You can reach me on Discord @Afo#3621
