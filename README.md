@@ -14,5 +14,4 @@ Hi, I'm Afo, or Afoxie. I'm a 16 year old software developer. I've been using Ja
 
 [My Website](https://afo.xyz)
 
-discord account got disabled lol
-[if you need to contact me please join this server](https://discord.gg/CYHRErYCFN)
+[if you want to contact me to collaborate, or just chat, please join this server](https://discord.gg/CYHRErYCFN)
