@@ -13,6 +13,6 @@ Hi, I'm Afo, or Afoxie. I'm a 16 year old software developer. I've been using Ja
 * PHP
 * Rust
 
-[My Website](https://afo.xyz)
+[My Website](https://afo.gay)
 
 [if you want to contact me to collaborate, or just chat, please join this server](https://discord.gg/CYHRErYCFN)
