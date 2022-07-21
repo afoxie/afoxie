@@ -15,4 +15,4 @@ Hi, I'm Afo, or Afoxie. I've been using JavaScript, HTML/CSS, C#, and Lua since 
 
 [My Website](https://afo.gay)
 
-[if you want to contact me to collaborate, or just chat, please join this server](https://discord.gg/CYHRErYCFN)
+[if you want to contact me to collaborate, or just chat, please join this server](https://discord.gg/PFBpbuPwfU)
